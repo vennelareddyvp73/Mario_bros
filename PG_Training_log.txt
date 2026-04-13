@@ -1,0 +1,20 @@
+Training ::   5%|▌         | 25/500 [00:50<11:20,  1.43s/it]Episode 25/500 | Avg Reward: 229.84 | Avg Value: 9.360 | Steps: 402
+Training ::  10%|█         | 50/500 [01:48<18:17,  2.44s/it]Episode 50/500 | Avg Reward: 530.74 | Avg Value: 50.987 | Steps: 1000
+Training ::  15%|█▌        | 75/500 [02:41<12:03,  1.70s/it]Episode 75/500 | Avg Reward: 265.97 | Avg Value: 49.156 | Steps: 449
+Training ::  20%|██        | 100/500 [03:31<11:59,  1.80s/it]Episode 100/500 | Avg Reward: 200.20 | Avg Value: 17.276 | Steps: 404
+Training ::  25%|██▌       | 125/500 [04:32<16:37,  2.66s/it]Episode 125/500 | Avg Reward: 277.93 | Avg Value: 24.882 | Steps: 1000
+Training ::  30%|███       | 150/500 [05:25<10:51,  1.86s/it]Episode 150/500 | Avg Reward: 76.75 | Avg Value: 21.411 | Steps: 1000
+Training ::  35%|███▌      | 175/500 [06:17<12:05,  2.23s/it]Episode 175/500 | Avg Reward: 297.37 | Avg Value: 13.215 | Steps: 948
+Training ::  40%|████      | 200/500 [07:17<10:58,  2.20s/it]Episode 200/500 | Avg Reward: 340.92 | Avg Value: 29.827 | Steps: 824
+Training ::  45%|████▌     | 225/500 [08:15<10:37,  2.32s/it]Episode 225/500 | Avg Reward: 144.72 | Avg Value: 33.798 | Steps: 664
+Training ::  50%|█████     | 250/500 [09:05<07:15,  1.74s/it]Episode 250/500 | Avg Reward: 230.70 | Avg Value: 13.609 | Steps: 1000
+Training ::  55%|█████▌    | 275/500 [09:57<09:02,  2.41s/it]Episode 275/500 | Avg Reward: 234.43 | Avg Value: 21.719 | Steps: 1000
+Training ::  60%|██████    | 300/500 [10:52<07:47,  2.34s/it]Episode 300/500 | Avg Reward: 238.68 | Avg Value: 25.614 | Steps: 824
+Training ::  65%|██████▌   | 325/500 [11:43<05:02,  1.73s/it]Episode 325/500 | Avg Reward: 135.86 | Avg Value: 21.880 | Steps: 313
+Training ::  70%|███████   | 350/500 [12:37<05:53,  2.36s/it]Episode 350/500 | Avg Reward: 363.65 | Avg Value: 32.248 | Steps: 828
+Training ::  75%|███████▌  | 375/500 [13:41<05:46,  2.77s/it]Episode 375/500 | Avg Reward: 283.22 | Avg Value: 27.082 | Steps: 1000
+Training ::  80%|████████  | 400/500 [14:40<03:53,  2.34s/it]Episode 400/500 | Avg Reward: 274.07 | Avg Value: 31.035 | Steps: 674
+Training ::  85%|████████▌ | 425/500 [15:33<02:50,  2.27s/it]Episode 425/500 | Avg Reward: 427.34 | Avg Value: 37.575 | Steps: 1000
+Training ::  90%|█████████ | 450/500 [16:31<01:54,  2.29s/it]Episode 450/500 | Avg Reward: 144.86 | Avg Value: 32.191 | Steps: 828
+Training ::  95%|█████████▌| 475/500 [17:34<01:04,  2.59s/it]Episode 475/500 | Avg Reward: 313.14 | Avg Value: 16.788 | Steps: 824
+Training :: 100%|██████████| 500/500 [18:37<00:00,  2.23s/it]Episode 500/500 | Avg Reward: 121.40 | Avg Value: 19.581 | Steps: 1000
